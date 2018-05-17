@@ -773,9 +773,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 267.43866, y: -32.348007, z: 328.0678}
+    m_Target: {x: 224.53607, y: 55.0943, z: 307.08762}
     speed: 2
-    m_Value: {x: 267.43866, y: -32.348007, z: 328.0678}
+    m_Value: {x: 224.53607, y: 55.0943, z: 307.08762}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -803,9 +803,9 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.11774476, y: 0.85045034, z: -0.21517283, w: -0.46537557}
+    m_Target: {x: -0.11880647, y: 0.8443261, z: -0.20958546, w: -0.4786189}
     speed: 2
-    m_Value: {x: -0.117744565, y: 0.8504489, z: -0.21517247, w: -0.4653748}
+    m_Value: {x: -0.11880625, y: 0.8443246, z: -0.20958509, w: -0.47861803}
   m_Size:
     m_Target: 622.6603
     speed: 2
@@ -848,8 +848,8 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 
-    m_LastClickedID: 0
+    m_SelectedIDs: e80d0000
+    m_LastClickedID: 3560
     m_ExpandedIDs: f0fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
