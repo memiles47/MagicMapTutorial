@@ -572,7 +572,8 @@ MonoBehaviour:
     m_ScenePaths: []
     m_ShowAllHits: 0
     m_SearchArea: 0
-    m_Folders: []
+    m_Folders:
+    - Assets/Scenes
   m_ViewMode: 0
   m_StartGridSize: 16
   m_LastFolders: []
@@ -612,7 +613,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 46090000
+    m_ExpandedIDs: 46090000920a0000a80a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -803,9 +804,9 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.11880647, y: 0.8443261, z: -0.20958546, w: -0.4786189}
+    m_Target: {x: 0.032165337, y: 0.96134627, z: -0.12794346, w: 0.24168804}
     speed: 2
-    m_Value: {x: -0.11880625, y: 0.8443246, z: -0.20958509, w: -0.47861803}
+    m_Value: {x: 0.032165278, y: 0.9613444, z: -0.12794322, w: 0.24168758}
   m_Size:
     m_Target: 622.6603
     speed: 2
@@ -848,9 +849,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: e80d0000
-    m_LastClickedID: 3560
-    m_ExpandedIDs: f0fbffff00000000
+    m_SelectedIDs: 920a0000
+    m_LastClickedID: 0
+    m_ExpandedIDs: 129bfffff0fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
