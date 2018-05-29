@@ -501,7 +501,7 @@ MonoBehaviour:
   m_AnimEditor: {fileID: 0}
   m_LockTracker:
     m_IsLocked: 0
-  m_LastSelectedObjectID: 13230
+  m_LastSelectedObjectID: 3590
 --- !u!114 &17
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -848,8 +848,8 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: f80d0000
-    m_LastClickedID: 3576
+    m_SelectedIDs: 060e0000
+    m_LastClickedID: 3590
     m_ExpandedIDs: f0fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
